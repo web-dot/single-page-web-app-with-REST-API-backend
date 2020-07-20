@@ -2,6 +2,9 @@
     "name": "memorygame",
     "description": "",
     "version": "1.0.0",
+    "engines": {
+        "node": "v12.16.3"
+      },
     "author": "s <fedev.sudipto@gmail.com>",
     "contributors": [],
     "repository": {
